@@ -1,2 +1,0 @@
-# denengec
-Sample try. 
